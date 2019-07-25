@@ -1,5 +1,28 @@
-.background {
+body {
+    background-color: gray;
+}
 
-    background-color: #777;
-    color: #ebebeb;
+header {
+    background-color: #ebebeb;
+    width: 900px;
+    height: 75px;
+    text-align: center;
+    line-height: 75px;
+    vertical-align: middle;
+    color: gray;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+h1 {
+    font-size: 2em;
+}
+
+h2 {
+    font-size: 1em;
+}
+
+h3 {
+    font-size: 0.5em;
 }
